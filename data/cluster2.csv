@@ -1,0 +1,298 @@
+name,album,artist,id,release_date,popularity,danceability,energy,valence,loudness,kmeans
+(Nice Dream),The Bends,Radiohead,4QbQ55kHcRNho6XLaPctT1,1995-03-28,55,0.262,0.567,0.377,-11.075,0
+15 Step,In Rainbows,Radiohead,6dsq7Nt5mIFzvm5kIYNORy,2007-12-28,61,0.6,0.853,0.847,-7.584,0
+2 + 2 = 5,Hail To the Thief,Radiohead,37kUGdEJJ7NaMl5LFW4EA4,2003,57,0.443,0.717,0.386,-5.498,0
+A Brain in a Bottle,Tomorrow's Modern Boxes,Thom Yorke,0ztEZNjeZQ45nMcsqYxxyc,2014,43,0.787,0.558,0.431,-12.365,0
+A Punch Up At a Wedding,Hail To the Thief,Radiohead,2LfUYXF8jfrHCfwYyf2pRj,2003,50,0.603,0.507,0.568,-9.965,0
+A Wolf At the Door,Hail To the Thief,Radiohead,66cuLvkHsW7dNkfNk6gQP9,2003,52,0.48,0.675,0.37,-7.134,0
+Airbag,OK Computer,Radiohead,3OsUjkcv1C1v5udFhgRSFg,1997-05-28,58,0.306,0.872,0.648,-7.313,0
+Airbag - Remastered,OK Computer OKNOTOK 1997 2017,Radiohead,4F4Wtw45jKohdzu9onG6WH,2017-06-23,48,0.319,0.935,0.63,-5.709,0
+Amok,AMOK,Atoms For Peace,2r4cSpg6mKnb8wBBN5g5hz,2013-02-25,38,0.618,0.811,0.669,-7.075,0
+Analyse,The Eraser,Thom Yorke,5fOOQFVHQb1M58iSYebKeW,2006-07-10,45,0.56,0.841,0.42,-8.394,0
+Analyse (Various Remix),The Eraser Rmxs,Thom Yorke,5kvkww23niURT9M1F9sjGs,2008,19,0.726,0.706,0.589,-7.402,0
+And It Rained All Night,The Eraser,Thom Yorke,0jXGA2HfX89Ofgm0F5vVjI,2006-07-10,38,0.306,0.914,0.34,-7.083,0
+And It Rained All Night (Burial Remix),The Eraser Rmxs,Thom Yorke,70jx2rO4bbtUqlgGu96Q3X,2008,25,0.688,0.959,0.676,-7.056,0
+Anyone Can Play Guitar,Pablo Honey,Radiohead,4NUc1M0CS7b6zvWoyvibju,1993-02-22,50,0.294,0.813,0.554,-10.772,0
+Atoms For Peace (Four Tet Remix),The Eraser Rmxs,Thom Yorke,2rxBZkJX2MXrsFEJrSWi27,2008,32,0.622,0.629,0.73,-10.661,0
+Backdrifts,Hail To the Thief,Radiohead,6CVdTDYoDbwYj4xn8u5Gha,2003,51,0.718,0.718,0.732,-10.06,0
+Bangers + Mash,In Rainbows (Disk 2),Radiohead,2mAWzzAi9pdKwteyg0lNqj,2007-12-03,42,0.637,0.98,0.65,-4.981,0
+Before Your Very Eyes...,Before Your Very Eyes... / Magic Beanz,Atoms For Peace,5kbhsf3kdmjbzCFtTaufPd,2013-07-01,21,0.554,0.801,0.408,-11.339,0
+Black Star,The Bends,Radiohead,6JzzI3YxHCcjZ7MCQS2YS1,1995-03-28,55,0.288,0.555,0.307,-7.431,0
+Black Swan,The Eraser,Thom Yorke,4VbV8Zyjuu1qz0QteX1wVC,2006-07-10,56,0.613,0.791,0.509,-7.293,0
+Black Swan (Cristian Vogel Spare Parts Remix),The Eraser Rmxs,Thom Yorke,3H4exceNzDQZd5gi0hS70f,2008,22,0.655,0.939,0.471,-8.744,0
+Black Swan (Vogel Bonus Beat Eraser Remix),The Eraser Rmxs,Thom Yorke,6Ee6U8v7H7REp4l0AsW7tL,2008,19,0.855,0.705,0.534,-9.887,0
+Bloom,The King Of Limbs,Radiohead,6tLALP9mi7VbNC7s16iBRK,2011-02-18,51,0.518,0.959,0.341,-7.596,0
+Bloom (Blawan Rmx),TKOL RMX 1234567,Radiohead,1AVrv7FD10FoKW38oBiKRg,2011-10-10,29,0.582,0.949,0.0327,-7.958,0
+Bloom (Harmonic 313 Rmx),TKOL RMX 1234567,Radiohead,1CxhtUbe1o2PeMM3l5Kch6,2011-10-10,32,0.443,0.665,0.185,-13.055,0
+Bloom (Mark Pritchard Rmx),TKOL RMX 1234567,Radiohead,2H7Y8wYixrSlKJoaZ1N2yl,2011-10-10,31,0.414,0.712,0.286,-7.97,0
+Bloom (Objekt RMX),TKOL RMX 1234567,Radiohead,6M0NzgHVT1FL7vPIUTZlXD,2011-10-10,27,0.832,0.674,0.237,-9.099,0
+Blow Out,Pablo Honey,Radiohead,6qttbImnJ5wuA8AtDKEy18,1993-02-22,45,0.284,0.719,0.289,-10.739,0
+Bodysnatchers,In Rainbows,Radiohead,4m0Vgr48VFaMYw0Sp1ozJu,2007-12-28,59,0.343,0.977,0.727,-4.993,0
+Bones,The Bends,Radiohead,0OT4Rhd9cw1yajN9ZxL6qL,1995-03-28,52,0.358,0.705,0.419,-8.284,0
+Burn the Witch,A Moon Shaped Pool,Radiohead,3pcCifdPTc2BbqmWpEhtUd,2016-05-08,57,0.541,0.847,0.62,-6.52,0
+Climbing Up the Walls,OK Computer,Radiohead,0R332cdlS9LyE0Ge2PSlVC,1997-05-28,55,0.172,0.655,0.221,-7.476,0
+Climbing Up the Walls - Remastered,OK Computer OKNOTOK 1997 2017,Radiohead,2Pquc3xvWghdFuf0HrjLUx,2017-06-23,45,0.266,0.633,0.227,-6.933,0
+Default,Default / What the Eyeballs Did,Atoms For Peace,6F25XOoQ6bZsdh0Xc47ob6,2012-12-04,20,0.793,0.855,0.697,-4.863,0
+Dollars & Cents (Live),I Might Be Wrong,Radiohead,3dM4EViXbO9TH5SYsvcVmj,2001,31,0.261,0.71,0.237,-10.308,0
+Down Is The New Up,In Rainbows (Disk 2),Radiohead,6CNt7GXfOOS5Hkxu8e4vav,2007-12-03,43,0.532,0.845,0.125,-6.967,0
+Dropped,AMOK,Atoms For Peace,3UpMuTtzhnVNQGUlfP5zfj,2013-02-25,37,0.611,0.739,0.69,-5.735,0
+Electioneering,OK Computer,Radiohead,6PBHfI3G8MlQ8qdItoVoxL,1997-05-28,53,0.185,0.889,0.331,-5.491,0
+Electioneering - Remastered,OK Computer OKNOTOK 1997 2017,Radiohead,2HpUjdaboRlwPOSZT1UZrZ,2017-06-23,44,0.204,0.951,0.44,-4.345,0
+FeelingPulledApartByHorses,FeelingPulledApartByHorses,Thom Yorke,53MpsXQZGUULbdPEa90sPl,2009,31,0.647,0.702,0.538,-8.799,0
+Feral,The King Of Limbs,Radiohead,0eECFDnWy0RdjMmJ8NOeAL,2011-02-18,44,0.49,0.777,0.729,-11.521,0
+Feral (Lone RMX),TKOL RMX 1234567,Radiohead,3zkFTfcboFcOdno0CHCmTc,2011-10-10,31,0.761,0.877,0.222,-7.806,0
+Ful Stop,A Moon Shaped Pool,Radiohead,4CzTgOmc3Sdm4EgKQWzjQl,2016-05-08,52,0.426,0.661,0.178,-9.877,0
+Give Up The Ghost (Brokenchord Rmx),TKOL RMX 1234567,Radiohead,410fAd2tXU8aEb4vrGzslY,2011-10-10,29,0.454,0.615,0.0964,-9.076,0
+Give Up The Ghost (Thriller Houseghost Remix),TKOL RMX 1234567,Radiohead,1gaAIZ4vGQ6QvDUgN2Xyus,2011-10-10,30,0.596,0.894,0.143,-9.477,0
+Go To Sleep,Hail To the Thief,Radiohead,6TdGeb9e2KL6RZG0VxoTMd,2003,51,0.288,0.86,0.66,-6.311,0
+Good Evening Mrs Magpie (Modeselektor RMX),TKOL RMX 1234567,Radiohead,0tKuiKb2mazZYdA6fPP7kI,2011-10-10,31,0.774,0.637,0.0438,-11.858,0
+Harrowdown Hill,The Eraser,Thom Yorke,2C3xIudHEjCIS5KT4JuM0b,2006-07-10,44,0.705,0.668,0.217,-8.426,0
+Harrowdown Hill (Extended Mix),Spitting Feathers,Thom Yorke,37tMM4xyX5fi5e3LTjdP5Q,2006-08-21,19,0.755,0.613,0.173,-10.254,0
+Harrowdown Hill (The Bug Remix),The Eraser Rmxs,Thom Yorke,2jvBbSXn5aeA9rNwEtcPYA,2008,23,0.534,0.958,0.141,-5.932,0
+Hearing Damage,Hearing Damage,Thom Yorke,7z8KQiJ4kclFjGGjDRkvFK,2009-10-18,56,0.627,0.86,0.144,-6.321,0
+House Of Cards,In Rainbows,Radiohead,3Jc6X15OZCCyhGSHBF4hwB,2007-12-28,63,0.71,0.496,0.637,-9.638,0
+How Do You?,Pablo Honey,Radiohead,71wIOoaoVMUwskK5yCXZL4,1993-02-22,46,0.185,0.964,0.239,-8.316,0
+I Can't,Pablo Honey,Radiohead,48IEDejXX5LH8TAC3VIGpc,1993-02-22,43,0.284,0.825,0.276,-10.256,0
+I Might Be Wrong,Amnesiac,Radiohead,0JhpYE9xA3UpSFrmXTZyIF,2001-03-12,58,0.601,0.735,0.505,-8.321,0
+I Might Be Wrong (Live),I Might Be Wrong,Radiohead,2hWZJox4TXssEA8lNUBxPN,2001,36,0.409,0.943,0.332,-8.843,0
+I Promise,OK Computer OKNOTOK 1997 2017,Radiohead,6V9PDDZ2pHQCUleRXvRYQ1,2017-06-23,54,0.441,0.435,0.487,-8.457,0
+Identikit,A Moon Shaped Pool,Radiohead,3LhtqibvTtjOUrzKs7Vsz1,2016-05-08,52,0.692,0.458,0.35,-9.461,0
+Idioteque,Kid A,Radiohead,7xqeIdLJSf3bgmZ7vUvHrE,2000-10-01,59,0.615,0.931,0.53,-7.8,0
+Idioteque (Live In Oxford),I Might Be Wrong,Radiohead,3Em5EatvVONefKtPAjXad0,2001,36,0.493,0.979,0.322,-6.132,0
+Iluvya,Spitting Feathers,Thom Yorke,1hTaPnoIphvtCMr4uVkVV7,2006-08-21,16,0.613,0.985,0.702,-6.347,0
+Impossible Knots,ANIMA,Thom Yorke,0yOwZ2cIZAJpBKZKfSKZUI,2019-06-27,38,0.218,0.675,0.53,-10.789,0
+Jigsaw Falling Into Place,In Rainbows,Radiohead,15ea10YpJIl3mJq75yzqsD,2007-12-28,63,0.461,0.833,0.808,-6.082,0
+Judge Jury and Executioner,AMOK,Atoms For Peace,24YY8ILPDSKapND4kzP1gi,2013-02-25,35,0.89,0.66,0.634,-7.706,0
+Just,The Bends,Radiohead,4SE81CrzH0qPA8KHqM9Syz,1995-03-28,61,0.291,0.767,0.358,-6.913,0
+Karma Police,OK Computer,Radiohead,3SVAN3BRByDmHOhKyIDxfC,1997-05-28,74,0.36,0.505,0.317,-9.129,0
+Karma Police - Remastered,OK Computer OKNOTOK 1997 2017,Radiohead,24yaR0CyO2oRISmeL2AvVj,2017-06-23,49,0.389,0.577,0.367,-7.578,0
+Kid A,Kid A,Radiohead,4x7XJOE2ml2P3o3i77466j,2000-10-01,55,0.63,0.429,0.168,-15.54,0
+Knives Out,Amnesiac,Radiohead,2xbrMtkxp399aSiCJ8EAON,2001-03-12,57,0.433,0.675,0.184,-6.702,0
+Let Down,OK Computer,Radiohead,4aOAzvRdOsZSwZIgwcdeL0,1997-05-28,60,0.352,0.674,0.145,-9.018,0
+Let Down - Remastered,OK Computer OKNOTOK 1997 2017,Radiohead,7BOXzaH1Rv9JLUgwvAkID5,2017-06-23,49,0.364,0.752,0.122,-7.125,0
+Little By Little,The King Of Limbs,Radiohead,4tCwsdqqG4jASHhbsMHCx0,2011-02-18,46,0.619,0.886,0.604,-8.423,0
+Little By Little (Caribou Rmx),TKOL RMX 1234567,Radiohead,6Unw1AAcpS1ZgZoRlj2jxA,2011-10-10,39,0.8,0.586,0.126,-9.633,0
+Little By Little (Shed),TKOL RMX 1234567,Radiohead,1mlpZ1Zv1CZSAVsXKQYnQY,2011-10-10,29,0.344,0.79,0.472,-9.084,0
+Lotus Flower,The King Of Limbs,Radiohead,1amSa5xo79zINsgrpNlNge,2011-02-18,58,0.721,0.676,0.621,-8.78,0
+Lotus Flower (Jacques Greene Rmx),TKOL RMX 1234567,Radiohead,5hfzW7LG97Hxv62HHUKgaj,2011-10-10,39,0.629,0.592,0.169,-8.405,0
+Lotus Flower (SBTRKT RMX),TKOL RMX 1234567,Radiohead,1MheF7RyAsg9tuI6Vje9SB,2011-10-10,31,0.792,0.49,0.422,-8.229,0
+Lurgee,Pablo Honey,Radiohead,2B5P22cfUadACK7jLQegU6,1993-02-22,43,0.42,0.548,0.408,-12.298,0
+Magic Beanz,Before Your Very Eyes... / Magic Beanz,Atoms For Peace,1Udj37KFsXJkbCERPfbTCD,2013-07-01,24,0.344,0.951,0.18,-7.031,0
+Meeting in the Aisle - Remastered,OK Computer OKNOTOK 1997 2017,Radiohead,5tDkjUaPiTYne5aDtg6ZUE,2017-06-23,43,0.385,0.776,0.148,-4.871,0
+Morning Bell (Live In Oxford),I Might Be Wrong,Radiohead,5MwVV6v5ak6NecRGXazcPJ,2001,33,0.519,0.8,0.341,-7.207,0
+Morning Mr Magpie,The King Of Limbs,Radiohead,3wxmJSQ3Z1HfAuxeHQoZcE,2011-02-18,46,0.648,0.588,0.403,-10.993,0
+Morning Mr Magpie (Nathan Fake Rmx),TKOL RMX 1234567,Radiohead,64lecUR19lBSu317AzVZv3,2011-10-10,33,0.661,0.707,0.846,-7.023,0
+My Iron Lung,The Bends,Radiohead,4dPKQxaraW6CG1rTBzV6DW,1995-03-28,55,0.242,0.859,0.671,-8.4,0
+Myxomatosis,Hail To the Thief,Radiohead,38WL6GlG9NHFiQS6JxV84r,2003,48,0.499,0.815,0.57,-7.079,0
+Nose Grows Some,Tomorrow's Modern Boxes,Thom Yorke,0MgBSd3GVQQyK4ihtXO6LZ,2014,37,0.517,0.636,0.878,-13.75,0
+Not The News,ANIMA,Thom Yorke,7ypjELqhyUT3BBCws8kzKN,2019-06-27,42,0.558,0.813,0.28,-8.919,0
+Not The News - Clark Remix,Not the News Rmx EP,Thom Yorke,2ezoMtz1cFPocOoxN8f5Ox,2019-08-02,17,0.77,0.495,0.21,-6.832,0
+Not The News - Equiknoxx Remix Feat. Time Cow & Gavsborg,Not the News Rmx EP,Thom Yorke,3NCEIiE6td1hK0UKSvjlUC,2019-08-02,19,0.638,0.758,0.0463,-7.151,0
+Not The News - Extendo Mix,Not the News Rmx EP,Thom Yorke,4bQHxrQJbRnWoqpXvuf3jQ,2019-08-02,22,0.616,0.739,0.203,-8.684,0
+Not The News - Mark Pritchard Remix,Not the News Rmx EP,Thom Yorke,2Ipmxha3s61AeoZHUteMAq,2019-08-02,23,0.435,0.461,0.506,-12.808,0
+Optimistic,Kid A,Radiohead,4DE6Wkt9fW7R5e9gJGWQim,2000-10-01,53,0.403,0.757,0.573,-9.931,0
+Palo Alto - Remastered,OK Computer OKNOTOK 1997 2017,Radiohead,7BFYY2EFrru8QHolUiKpEE,2017-06-23,40,0.406,0.819,0.325,-7.825,0
+Paranoid Android,OK Computer,Radiohead,2nTsKOXIVGDf2iPeVQO2Gm,1997-05-28,67,0.252,0.849,0.194,-6.501,0
+Paranoid Android - Remastered,OK Computer OKNOTOK 1997 2017,Radiohead,1QgI14YcWg3tOobXjzlNMl,2017-06-23,52,0.332,0.826,0.216,-7.269,0
+Pearly* - Remastered,OK Computer OKNOTOK 1997 2017,Radiohead,4ozum7awQLhJ6D6fQL5xPy,2017-06-23,41,0.324,0.853,0.317,-5.811,0
+Planet Telex,The Bends,Radiohead,05evePUsIT1cmIURp1hgu6,1995-03-28,55,0.429,0.88,0.255,-8.013,0
+Prove Yourself,Pablo Honey,Radiohead,4D6ZExVvYLZxhcAvifX5px,1993-02-22,43,0.25,0.62,0.319,-10.915,0
+Pulk/Pull Revolving Doors,Amnesiac,Radiohead,4doFWLhPChHDgs89rHs5nr,2001-03-12,45,0.58,0.625,0.14,-12.073,0
+Reckoner,In Rainbows,Radiohead,56Z7hbyMrndw1naxb6I5Oi,2007-12-28,62,0.518,0.656,0.203,-7.438,0
+Reverse Running,AMOK,Atoms For Peace,1fnUU2RQ4I0RDn2WgXfhWV,2013-02-25,36,0.419,0.616,0.282,-9.863,0
+Ripcord,Pablo Honey,Radiohead,4nklmaiY4gfQI3SB1sLGsd,1993-02-22,43,0.256,0.906,0.254,-10.436,0
+Runwayaway,ANIMA,Thom Yorke,1WQA1SHyH5aw1KUiTZKWka,2019-06-26,38,0.588,0.454,0.152,-12.477,0
+S.A.D.,Judge Jury and Executioner / S.A.D.,Atoms For Peace,3ctDYlZOkEjmEl0zPLlwfW,2013-03-11,25,0.669,0.748,0.364,-10.349,0
+Scatterbrain,Hail To the Thief,Radiohead,467FBnBDRfL8Hz9ktUUybj,2003,46,0.492,0.753,0.234,-8.617,0
+Separator,The King Of Limbs,Radiohead,2rA36OZNb3LkvqcNro1ugK,2011-02-18,48,0.693,0.776,0.659,-9.804,0
+Separator (Anstam RMX),TKOL RMX 1234567,Radiohead,2Bri2rrUY9kVo6teP0kaeJ,2011-10-10,41,0.746,0.916,0.117,-7.797,0
+Separator (Four Tet RMX),TKOL RMX 1234567,Radiohead,4raxzmnFq93jfKC8c3xcIv,2011-10-10,32,0.461,0.455,0.375,-12.403,0
+Sit Down. Stand Up,Hail To the Thief,Radiohead,3wPLVTqp66miOokxN1cLbm,2003,48,0.483,0.559,0.52,-7.434,0
+Skip Divided (Modeselektor Remix),The Eraser Rmxs,Thom Yorke,0Aphl3uGYo7PCoVSGZjnAP,2008,28,0.688,0.826,0.541,-7.603,0
+Staircase,The Daily Mail / Staircase,Radiohead,2O6h9bcoyqbg9OYTqHJ535,2011-12-19,40,0.367,0.877,0.807,-8.102,0
+Stop Whispering,Pablo Honey,Radiohead,2zYmvi3w2T8a9Ckrv21bvW,1993-02-22,46,0.212,0.696,0.298,-10.059,0
+Stuck Together Pieces,AMOK,Atoms For Peace,6fi8e1nv4QBqODf9puRcyX,2013-02-25,36,0.643,0.716,0.647,-10.484,0
+Subterranean Homesick Alien,OK Computer,Radiohead,19yGmm9FjEZdZc5j98WDe4,1997-05-28,59,0.316,0.592,0.32,-8.916,0
+Subterranean Homesick Alien - Remastered,OK Computer OKNOTOK 1997 2017,Radiohead,2kDEGoEVHfpNPMOs7IIG5y,2017-06-23,47,0.326,0.636,0.256,-7.092,0
+Sulk,The Bends,Radiohead,4HtPAkZnSyGtNvBnfDc2nw,1995-03-28,51,0.167,0.636,0.671,-7.4,0
+The Bends,The Bends,Radiohead,3aDUSpF3LexOr1lFKvPV2h,1995-03-28,55,0.288,0.757,0.311,-8.065,0
+The Butcher,Supercollider / The Butcher,Radiohead,6jIvShcsrWjHuNpPnkAhb2,2016-11-18,44,0.83,0.569,0.703,-14.666,0
+The Clock,The Eraser,Thom Yorke,7aMFgxGAKBCrYdyrY6SMek,2006-07-10,41,0.572,0.68,0.723,-9.927,0
+The Clock (Surgeon Remix),The Eraser Rmxs,Thom Yorke,4l13TkLaLQtYOTFGG2YxY8,2008,24,0.718,0.942,0.286,-4.65,0
+The Drunkk Machine,Spitting Feathers,Thom Yorke,5U7dhn1yYxEqxcjqL4khCj,2006-11-22,0,0.757,0.967,0.0598,-8.018,0
+The Gloaming,Hail To the Thief,Radiohead,2q4zYomFf4ZVrEOr1aXj6l,2003,45,0.44,0.609,0.115,-13.37,0
+The National Anthem,Kid A,Radiohead,01UstUPbzPgq2MNp6h0tVo,2000-10-01,58,0.486,0.754,0.387,-8.552,0
+The National Anthem (Live in France),I Might Be Wrong,Radiohead,3bk7mfQWZ0acgp0hXzYQKS,2001,35,0.344,0.864,0.289,-5.679,0
+TheHollowEarth,FeelingPulledApartByHorses,Thom Yorke,0AIgJtsiphW1Aw2Q0Kyla6,2009,27,0.534,0.735,0.703,-9.827,0
+There Is No Ice (For My Drink),Tomorrow's Modern Boxes,Thom Yorke,6axv9gKBbjnXtfHaj2toHm,2014,34,0.641,0.496,0.396,-13.298,0
+"There, There",Hail To the Thief,Radiohead,77SPrxY5gn6VPrKPGrfLnM,2003,58,0.614,0.677,0.717,-8.317,0
+Traffic,ANIMA,Thom Yorke,1nEDT4DsoaTfexrz8D9zt1,2019-06-27,45,0.768,0.42,0.202,-8.55,0
+Unless,AMOK,Atoms For Peace,7alFGBi594HZ8ndIBhYFUj,2013-02-25,36,0.581,0.925,0.145,-7.603,0
+Up On The Ladder,In Rainbows (Disk 2),Radiohead,5sdo1jKC0mpRxamLAuuPOS,2007-12-03,47,0.459,0.617,0.133,-7.567,0
+Vegetable,Pablo Honey,Radiohead,11qDTSr3Dj4TkPnBcIOqEJ,1993-02-22,43,0.384,0.717,0.42,-8.868,0
+What the Eyeballs Did,Default / What the Eyeballs Did,Atoms For Peace,2X91JLfOqO0tk59PQP3b3V,2012-12-04,24,0.725,0.779,0.68,-7.323,0
+Where I End and You Begin,Hail To the Thief,Radiohead,5X3uhutgZktlUWmzIOE3NG,2003,50,0.297,0.714,0.486,-7.863,0
+You,Pablo Honey,Radiohead,1MyqLTRhgyWPw7v107BEuI,1993-02-22,52,0.223,0.706,0.297,-12.012,0
+24 Hour Charleston,Bodysong. (Remastered),Jonny Greenwood,6Aif8Px6T49P0nQj7MTfNO,2003,12,0.766,0.399,0.0826,-11.988,0
+A Simple Life,Familial,Philip Selway,4auZ6rtNi6fcer2rX4h4KT,2010-08-30,13,0.609,0.35,0.273,-10.869,0
+Around Again,Weatherhouse,Philip Selway,7dAD93SAvbSX6A1C7BSUDj,2014-01-29,0,0.467,0.631,0.189,-7.284,0
+Around Again (The Acid Remix),Around Again (The Acid Remix),Philip Selway,677gmHatKTg9zIMTAAY5jY,2015-06-09,1,0.752,0.486,0.069,-12.779,0
+Around Again - The Acid Remix,Around Again (The Acid Remix),Philip Selway,6JNdhtTU4af0f2ItUws7fZ,2015-05-11,7,0.754,0.485,0.0695,-12.776,0
+Banksters,Earth,EOB,3WjURarf3ODlvegw0KSBqs,2020-04-17,36,0.707,0.542,0.748,-9.079,0
+Beyond Reason,Familial,Philip Selway,7cPdhDAQJQ5hPxEgdzaBg7,2010-08-31,8,0.745,0.374,0.206,-14.701,0
+Bring Me Coffee Or Tea - 2011 Remastered,Norwegian Wood OST,Jonny Greenwood,1FVtSY8OvuvtQ6Ym9Ipsmy,2011-01-28,0,0.386,0.642,0.557,-11.861,0
+Coming Up for Air,Weatherhouse,Philip Selway,6LN6M0vPyT0wQwDTuniisk,2014-10-06,30,0.698,0.485,0.396,-8.935,0
+Coming up for Air,Weatherhouse,Philip Selway,0HYovXUSw1wR4nWqlAW8vs,2014-01-29,6,0.699,0.487,0.394,-8.804,0
+Convergence,Bodysong. (Remastered),Jonny Greenwood,7LBAHBg4vy9yOJ5MzjUjhC,2003,22,0.674,0.61,0.354,-12.126,0
+Dark Streets,You Were Never Really Here (Original Motion Picture Soundtrack),Jonny Greenwood,5gt4YkI0qqBvjtRh4zMikZ,2018-03-09,23,0.698,0.245,0.763,-15.999,0
+Dark Streets (Reprise),You Were Never Really Here (Original Motion Picture Soundtrack),Jonny Greenwood,5QEsKsEGJTGikhd8kS72nd,2018-03-09,14,0.609,0.871,0.346,-11.284,0
+Dark Streets - Reprise,You Were Never Really Here (Original Motion Picture Soundtrack),Jonny Greenwood,36XXH21to96SfewgZ51qB1,2018-03-09,15,0.643,0.871,0.344,-11.284,0
+Deep Days,Earth,EOB,0Er3BwT1Wop7L9I1OWHkOF,2020-04-17,38,0.776,0.371,0.643,-9.674,0
+"Don't Turn The Light On, Leave Me Alone (from Cream)",Norwegian Wood OST,Jonny Greenwood,1qoN2c6pQnZQEBwwtahHRt,2011-01-28,0,0.585,0.666,0.548,-10.274,0
+Ghosts,Weatherhouse,Philip Selway,4Ja4zadOQC0ySVdbkFgLwx,2014-01-29,0,0.365,0.61,0.196,-12.241,0
+"Greenwood: Popcorn Superhet Receiver:, Pt. 2 B",Penderecki & Greenwood: Threnody for the Victims of Hiroshima / Popcorn Superhet Receiver / Polymorphia / 48 Responses to Polymorphia,Jonny Greenwood,6kTTqKKfbeJv4LE4tlrLLo,2012-03-09,11,0.619,0.641,0.931,-20.324,0
+Hammer and Tape,You Were Never Really Here (Original Motion Picture Soundtrack),Jonny Greenwood,4vro6clGmZRSK2web22INs,2018-03-09,15,0.708,0.333,0.964,-17.619,0
+Let It Go,Weatherhouse,Philip Selway,57VmxRjXv1I3M4AAqOmLoE,2014-10-07,4,0.421,0.566,0.175,-9.359,0
+Milky Drops from Heaven,Bodysong. (Remastered),Jonny Greenwood,3yged26pffaQqlNPnPWQYG,2003,11,0.336,0.698,0.313,-12.828,0
+Nausea,You Were Never Really Here (Original Motion Picture Soundtrack),Jonny Greenwood,1oJsANfP7G4ExjzpydyW6Q,2018-03-09,17,0.507,0.482,0.862,-12.002,0
+Nudnik Headache,Bodysong. (Remastered),Jonny Greenwood,68loColhiv5AeQMT6jlAp4,2003,12,0.759,0.923,0.0355,-11.703,0
+Olympik,Earth,EOB,6eKeuLRPiVSCO4p1OsFirm,2020-04-17,39,0.631,0.876,0.739,-8.569,0
+Olympik - Spike Stent Edit,Olympik,EOB,6a8bMi1XSRIW5G8zRPtp2s,2020-04-02,20,0.664,0.944,0.591,-6.497,0
+Proven Lands,There Will Be Blood (Music from the Motion Picture),Jonny Greenwood,2hU4G919MDVb9FhhPJujRf,2007-12-18,24,0.767,0.447,0.865,-17.438,0
+Shangri-La,Shangri-La,EOB,5h1rJXqX19bGpIrypJiOrI,2020-02-06,38,0.743,0.574,0.664,-8.533,0
+Shangri-La - Spike Stent Edit,Shangri-La,EOB,1sWEyV5Dd6fW5je5OwZvml,2020-03-17,21,0.739,0.714,0.685,-4.813,0
+Splitter,Bodysong. (Remastered),Jonny Greenwood,2zXJC0cYs73vHUupwZ2TUi,2003,13,0.237,0.664,0.313,-9.217,0
+Turning It Inside Out,Weatherhouse,Philip Selway,75iiRWvSubMBmZ5yqGZWMS,2014-01-29,0,0.424,0.54,0.266,-11.555,0
+Walk,Walk,Philip Selway,4jBRVWFwNjhgZlHCs74uUO,2017-09-13,2,0.68,0.584,0.196,-8.961,0
+All I Need,In Rainbows,Radiohead,51ygW389BW4Dut3B69pSwc,2007-12-28,62,0.668,0.477,0.0966,-8.709,0
+Atoms For Peace,The Eraser,Thom Yorke,7MklIl0YqJ5CVqi7zxCcf6,2006-07-10,43,0.643,0.415,0.237,-15.918,0
+Bloom (Jamie xx Rework),TKOL RMX 1234567,Radiohead,4LgjuZHNEoqsFlJfP7IDTB,2011-10-10,32,0.458,0.54,0.189,-11.866,0
+Decks Dark,A Moon Shaped Pool,Radiohead,5rIhBK9aaVMck0W2YtOwci,2016-05-08,58,0.56,0.5,0.249,-10.829,0
+Fitter Happier,OK Computer,Radiohead,53aFGAl0Vebwp2bo8wtdWR,1997-05-28,51,0.432,0.391,0.744,-14.99,0
+Fitter Happier - Remastered,OK Computer OKNOTOK 1997 2017,Radiohead,0VjnvzjK5wN93gPLwU4tqw,2017-06-23,43,0.434,0.368,0.689,-15.419,0
+Guess Again!,Tomorrow's Modern Boxes,Thom Yorke,0jnMk9aujJ6knGxFyZBbcx,2014,40,0.725,0.409,0.118,-12.842,0
+I Am a Very Rude Person,ANIMA,Thom Yorke,6CbeTloXS88ShOW42RYqGz,2019-06-27,41,0.81,0.269,0.715,-9.926,0
+Ill Wind,Ill Wind,Radiohead,7vuVUQV0dDnjXUyLPzJLPi,2019-01-11,47,0.514,0.493,0.215,-11.104,0
+In Limbo,Kid A,Radiohead,1NgvIjkEjkhcIR1pp5Qsir,2000-10-01,50,0.375,0.634,0.502,-10.543,0
+Ingenue,AMOK,Atoms For Peace,6jRAiWrKhURIcFGPEeMnsD,2013-02-25,49,0.684,0.542,0.441,-10.559,0
+Jetstream,Spitting Feathers,Thom Yorke,6264aKmo7GFF9gj5Sp5MRD,2006-11-22,0,0.602,0.851,0.353,-11.749,0
+Last Flowers,In Rainbows (Disk 2),Radiohead,7Ceo3Rpq33Vc5WcOb3tUbT,2007-12-03,51,0.558,0.307,0.304,-8.236,0
+Morning Bell,Kid A,Radiohead,1HQYo8C5L0qd1p5f1anXPS,2000-10-01,50,0.645,0.462,0.391,-12.124,0
+Open Again,Suspiria (Music for the Luca Guadagnino Film),Thom Yorke,18J18madM6frGZE09uBzVo,2018-10-26,39,0.335,0.731,0.127,-11.024,0
+Packt Like Sardines In a Crushed Tin Box,Amnesiac,Radiohead,7he52OqF36BVF6dSVKKQPq,2001-03-12,48,0.667,0.638,0.652,-12.715,0
+Present Tense,A Moon Shaped Pool,Radiohead,4eruRiSfDY1jdT03hjyi0i,2016-05-08,58,0.479,0.407,0.338,-12.428,0
+Skip Divided,The Eraser,Thom Yorke,15crUni1hZCKTlJbeWwe6s,2006-07-10,39,0.711,0.488,0.49,-12.219,0
+The Eraser,The Eraser,Thom Yorke,0WxzsZHbXcny0WhexO2MCa,2006-07-10,48,0.629,0.583,0.261,-11.235,0
+The Mother Lode,Tomorrow's Modern Boxes,Thom Yorke,27SIyhcBaxRrgG3TmIFYG8,2014,45,0.589,0.587,0.568,-14.527,0
+Twist,ANIMA,Thom Yorke,36IJNDHIljR94apizT5Iks,2019-06-27,42,0.424,0.751,0.0786,-11.647,0
+Volk Spin Off v3,Suspiria Unreleased Material,Thom Yorke,26n4j5zp4CU7MhqgMaWZRZ,2019-02-22,13,0.79,0.74,0.0389,-11.247,0
+Weird Fishes/ Arpeggi,In Rainbows,Radiohead,4Iyo50UoYhuuYORMLrGDci,2007-12-28,66,0.538,0.61,0.199,-8.027,0
+Infinity,Feel Something,Jaymes Young,1SOClUWhOi8vHZYMz3GluK,2017-06-23,88,0.671,0.673,0.494,-6.941,0
+Fall Away,Twenty One Pilots,Twenty One Pilots,77vDHmiANW3JS2gNN5q7pI,2009-12-29,60,0.816,0.766,0.696,-5.176,0
+broken,finding it hard to smile,lovelytheband,6XcfKZvJio9Z0fQy11GnNX,2018-08-03,70,0.666,0.728,0.51,-5.808,0
+Screen,Vessel,Twenty One Pilots,1pKmfhwbZvsyYUP2eOGdw5,2013-01-08,58,0.718,0.714,0.84,-5.699,0
+This Is Home,This Is Home,Cavetown,2TI2fw9FWPeah6N4k1b4NU,2015-08-03,0,0.81,0.266,0.212,-12.478,0
+Photo,Going Places,YONAS,3eMd0xb8I2Lw7OIRiFNvCO,2015-05-26,0,0.727,0.734,0.684,-6.903,0
+Learn To Let Go,Learn To Let Go,Welshly Arms,6Lqqc9jcrXUSxiDA5jle1j,2019-01-11,46,0.499,0.848,0.474,-4.718,0
+Ocean (feat. Khalid),Ocean (feat. Khalid),Martin Garrix,3nc420PXjTdBV5TN0gCFkS,2018-06-15,68,0.506,0.693,0.221,-7.265,0
+Tongue Tied,Tongue Tied - Single,Take Me To Your Best Friends House,4ol9WoZzEvvldE5Ttal1DK,2012-05-01,53,0.611,0.807,0.436,-4.12,0
+Fake Love,Cemetery Sun,Cemetery Sun,4ekEPnMf0RvF7z8rL9Xgzl,2016-11-18,49,0.512,0.839,0.368,-4.168,0
+Just You and I,Just You and I,Tom Walker,2n48BjaFSczfeIG3HaIaPv,2019-01-11,64,0.567,0.696,0.544,-5.416,0
+Bet on You,Bet on You,The Man Who,5d1ix6uxnaiPzQpWjoOtrN,2017-03-29,42,0.528,0.679,0.299,-4.363,0
+Apologize,Apologize,grandson,1JG8pJ7G8qJiy98DzCBL2E,2019-02-01,52,0.535,0.836,0.443,-5.593,0
+COPYCAT,dont smile at me,Billie Eilish,5w7wuzMzsDer96KqxafeRK,2017-12-22,72,0.679,0.388,0.234,-10.977,0
+Outta My Mind,Outta My Mind,Des Rocs,0taM1mwoUfIQrrz3YRJQuM,2019-01-18,0,0.586,0.841,0.55,-4.095,0
+Glory,Pressure,The Score,6hypt8VPJxeMXTTcRUHS86,2019-02-01,59,0.564,0.613,0.48,-5.055,0
+Waves,Same Kind Of Different,Dean Lewis,0hNOP5epEjX8Zj5aSGr6JU,2017-05-12,51,0.517,0.762,0.351,-5.806,0
+Need You Now,Same Kind Of Different,Dean Lewis,2oeySdF5FtALXQxYNBvq78,2017-05-12,41,0.551,0.783,0.505,-6.038,0
+Let Go,Same Kind Of Different,Dean Lewis,3NVnNH7lZW5Jg3fjiheS67,2017-05-12,55,0.567,0.519,0.406,-7.97,0
+Lose My Mind,Same Kind Of Different,Dean Lewis,5xh8yaN8U7H0nkkesxUax4,2017-05-12,58,0.554,0.642,0.228,-6.637,0
+Chemicals,Same Kind Of Different,Dean Lewis,3wyWMd0y9yurGCwagxFBIk,2017-05-12,43,0.549,0.464,0.212,-9.517,0
+Adore,Same Kind Of Different,Dean Lewis,6mZ1RHJHPb8Ox31R5l49Kn,2017-05-12,55,0.479,0.486,0.302,-6.066,0
+Laal Ishq,Ravishing Deepika,Various Artists,46dgEyMQRTp60Kvw5k5yLt,2015-11-03,36,0.504,0.671,0.447,-5.792,0
+And You,Between Somewhere,Token,4oH3UprLi434tqza0FapSP,2018-12-07,0,0.803,0.618,0.744,-6.608,0
+Goner,Blurryface,Twenty One Pilots,5P3yUXUC9rZPJPNmYGKEAz,2015-05-15,61,0.565,0.437,0.217,-7.68,0
+Epiphany (feat. NF),Blessings,Futuristic,7whWjytFNIYch6MAnIWZTS,2017-12-25,55,0.754,0.823,0.548,-5.502,0
+Sick Boy,Sick Boy,The Chainsmokers,58kZ9spgxmlEznXGu6FPdQ,2018-12-14,68,0.663,0.577,0.454,-7.518,0
+You Don't Have To Say You Love Me,You Don't Have To Say You Love Me,Dusty Springfield,0q8nQ0H4ad4KYcZdrTZPux,1966-07,47,0.317,0.513,0.627,-9.24,0
+Car Crash,Some Mad Hope,Matt Nathanson,62AHABwwdLvSKrtD7xKyzu,2007-01-01,39,0.274,0.901,0.434,-3.739,0
+Do I Wanna Know?,AM,Arctic Monkeys,5FVd6KXrgO9B3JPmC8OPst,2013-09-09,84,0.548,0.532,0.405,-7.596,0
+I Want To Break Free,Bohemian Rhapsody (The Original Soundtrack),Queen,25H6P7a94WUr5102lC6TNI,2018-10-19,57,0.807,0.414,0.502,-8.903,0
+Happiness,Eraser Shavings,Token,7wRoZRPKShgKDI2368T7H7,2016-09-23,0,0.612,0.878,0.414,-3.618,0
+Waist Down (Extended Version),Eraser Shavings,Token,0WsR3sLvsU8h9cTmyqukt0,2016-09-23,0,0.657,0.617,0.547,-5.852,0
+Exception,Eraser Shavings,Token,2YaRPZCQNs0g5Eo7P0l81p,2016-09-23,0,0.653,0.851,0.377,-5.04,0
+No Service,Between Somewhere,Token,7dQ4IJ09yUyW3tOn7CK9wQ,2018-12-07,0,0.438,0.548,0.088,-8.491,0
+'Till I Collapse,The Eminem Show,Eminem,4xkOaSrkexMciUUogZKVTS,2002-05-26,84,0.548,0.847,0.1,-3.237,0
+Is This What You Wanted,a modern tragedy vol. 2,grandson,5mMSj2y7aUBnXdL0AuH4hl,2019-02-22,45,0.493,0.742,0.182,-7.452,0
+Fallin (Temptation),a modern tragedy vol. 2,grandson,1pyljdnXoCMK6KBchy8WCk,2019-02-22,44,0.409,0.595,0.152,-8.845,0
+Darkside,a modern tragedy vol. 2,grandson,3JyvSSU0VnlMUsQckyEVfX,2019-02-22,62,0.497,0.701,0.18,-6.834,0
+Daydreamin' (feat. Jill Scott),Lupe Fiasco's Food & Liquor,Lupe Fiasco,50M2QjfSM82wkJ1d0iV4mh,2006-06-27,58,0.533,0.739,0.617,-3.573,0
+Phone (feat. Gjan),I Could Not Plan This,Witt Lowry,2qKwNM0CgnF5tN0DH9Elq5,2017-09-18,45,0.643,0.594,0.361,-8.288,0
+Rehab,bloom (Deluxe),Machine Gun Kelly,26Up4Z4Tq5Yc8ajbDQwIXR,2017-05-12,52,0.49,0.607,0.155,-6.282,0
+idfc,deadroses,blackbear,6y6jbcPG4Yn3Du4moXaenr,2015-02-14,75,0.63,0.5,0.315,-8.755,0
+Let You Go,bloom (Deluxe),Machine Gun Kelly,1beqtQO0aIc1dWsXr97Iji,2017-05-12,63,0.601,0.819,0.21,-3.835,0
+Patty Cake,Patty Cake,Token,5FeRwfYFiRaimm4swTxHXB,2017-09-13,0,0.862,0.71,0.528,-6.378,0
+Female Robbery,I Love You.,The Neighbourhood,4BDnfINTlfJPmLp1UV6CXt,2013-04-19,61,0.519,0.897,0.335,-3.167,0
+GHOST,GHOST,Witt Lowry,7iJxyaDSXtrQIolgGb1CcS,2019-02-05,0,0.722,0.59,0.217,-7.398,0
+7 Years (Acoustic) - Recorded at Spotify Studios Nyc,Spotify Singles,Lindsey Stirling,1VK5JYdgrJZENDl1taa2cS,2016-11-30,49,0.366,0.493,0.306,-7.414,0
+Seasons,Never Been Better,Olly Murs,3tbEVqFmJY3J8QVyJUwQTN,2015-03-10,0,0.633,0.817,0.584,-4.495,0
+Car Radio,Vessel,Twenty One Pilots,5cbpoIu3YjoOwbBDGUEp3P,2013-01-08,70,0.766,0.519,0.612,-7.355,0
+Icon,SYRE,Jaden,22nyEAEM29tcBRhukR089b,2017-11-17,71,0.786,0.82,0.49,-5.093,0
+My Friends Are Robots,Fear,Arrested Youth,3KlizfYIRTmPuvqbNs6VSA,2018-09-27,49,0.544,0.574,0.0902,-8.363,0
+A Painting in Paris,Fear,Arrested Youth,1WmriH1iRnPsou3Sntky4A,2018-09-27,42,0.699,0.702,0.608,-7.955,0
+Rest in Pieces,Better Off Dead III,Josh A,57b84jVYYBRxET9miVc5nZ,2018-10-11,49,0.648,0.682,0.258,-7.9,0
+Too Many Dead,Better Off Dead III,Josh A,77e0K7vWuBunVj16g7rClf,2018-10-11,48,0.666,0.659,0.52,-7.104,0
+Stay,Solace,iamjakehill,1GXuVOHHqIUKgfL9szuGTs,2018-04-15,40,0.728,0.668,0.857,-8.386,0
+7 Years,Lukas Graham,Lukas Graham,5kqIPrATaCc2LqxVWzQGbk,2016-04-01,78,0.765,0.473,0.34,-5.829,0
+Rip X,Rip X,iamjakehill,0RzAihLqsEg9Qcm4pfPbG2,2018-06-21,40,0.693,0.434,0.685,-9.366,0
+Gucci Coffin,Better off Dead,Josh A,0DzUwvANSN6lW8TnkjGOyT,2017-10-19,52,0.781,0.69,0.591,-6.611,0
+Blood in the Water,I Could Not Plan This,Witt Lowry,7ibzMFLknMFgH05iJCfkQo,2017-09-18,45,0.544,0.793,0.339,-6.453,0
+HURT,HURT,Witt Lowry,4BBwTC4qpcMrU6d438Up1x,2019-01-15,0,0.692,0.729,0.327,-8.261,0
+Kindest Regards,Kindest Regards,Witt Lowry,67HRSCGK3ZQIxb3Spr1cHQ,2014-08-02,53,0.664,0.601,0.457,-10.829,0
+Let You Down,Perception,NF,52okn5MNA47tk87PeZJLEL,2017-10-06,79,0.662,0.714,0.464,-5.68,0
+Can You Hold Me,Mansion,NF,1isXdpzFMO6EIkgdWjV2D8,2015-03-31,62,0.571,0.656,0.0847,-6.211,0
+Grow Up,Grow Up,Olly Murs,5nJWME6j2dfFSm5B6ayDrw,2016-10-07,0,0.571,0.719,0.511,-3.914,0
+Mockingbird,Encore (Deluxe Version),Eminem,561jH07mF1jHuk7KlaeF0s,2004-11-12,77,0.637,0.678,0.254,-3.798,0
+Asshole,The Marshall Mathers LP2 (Deluxe),Eminem,0OOv1XGVVzUgTIzomIHfR0,2013-11-05,50,0.534,0.906,0.499,-2.316,0
+So Much Better,The Marshall Mathers LP2 (Deluxe),Eminem,6dJRP4pXk4SOzWfhfHL3Or,2013-11-05,50,0.719,0.858,0.616,-1.366,0
+Pet Cheetah,Trench,Twenty One Pilots,7daBwTiPNOVgoMUG4SICgh,2018-10-05,57,0.653,0.684,0.355,-7.052,0
+Intro III,Perception,NF,6e56CkYWD3JO6ovFZBA8po,2017-10-06,64,0.435,0.625,0.395,-8.338,0
+Cold Wind Blows,Recovery,Eminem,3Tj1luJyKPQt7WbrqpJ2Az,2010-06-18,59,0.619,0.972,0.584,-0.517,0
+Space Bound,Recovery,Eminem,0sHW1jXe6Sou3437gJQNGA,2010-06-18,68,0.668,0.886,0.503,-3.474,0
+Intro,Mansion,NF,65kWtHIqg2IACNR9KP4KOS,2015-03-31,53,0.555,0.852,0.0749,-4.83,0
+Migraine,Vessel,Twenty One Pilots,4rfaoyaZvNa60cj3OKSQV9,2013-01-08,66,0.69,0.678,0.409,-6.52,0
+Therapy Session,Therapy Session,NF,6WKk8l8EXiwPBYlmSlhZWx,2016-04-22,65,0.704,0.778,0.465,-6.722,0
+I Could Not Plan This,I Could Not Plan This,Witt Lowry,5yobzuQqXAmFVH1sOgyBFt,2017-09-18,39,0.528,0.822,0.202,-5.759,0
+Code Red,Code Red,Token,5cFUhBHUhoV06QFAkZPpOu,2018-05-10,0,0.801,0.781,0.667,-6.175,0
+Suicidal Thoughts,Better off Dead,Josh A,56TOfxnRzSRbFRw8J6C4IT,2017-10-19,69,0.372,0.656,0.15,-6.086,0
+Numb,Numb,Witt Lowry,4m6fcqkqjsPPbjf7gjRzQM,2016-10-03,37,0.77,0.767,0.246,-6.289,0
+"Take Me Home, Country Roads","Poems, Prayers and Promises",John Denver,1YYhDizHx7PnDhAhko6cDS,1971,71,0.462,0.395,0.625,-9.376,0
+Weak,The Click,AJR,7fBHjuqAIVOdy5xoNxy5YQ,2017-06-09,0,0.669,0.579,0.66,-6.341,0
+High Hopes,Pray for the Wicked,Panic! At The Disco,1rqqCSm0Qe4I9rUvWncaom,2018-06-22,80,0.579,0.904,0.681,-2.729,0
+Burn the House Down,The Click (Deluxe Edition),AJR,0j7pdNXDzEVQST5Zcoh5xo,2018-09-21,0,0.454,0.66,0.568,-4.357,0
+Teenagers,The Black Parade,My Chemical Romance,7j31rVgGX9Q2blT92VBEA0,2006-10-23,80,0.463,0.857,0.856,-3.063,0
+Death of a Bachelor,Death of a Bachelor,Panic! At The Disco,1BECwm5qkaBwlbfo4kpYx8,2016-01-15,70,0.462,0.538,0.405,-5.527,0
+44 More,Bobby Tarantino II,Logic,3e7Y6sfFlIdBMJhX7wpqVO,2018-03-09,66,0.824,0.584,0.219,-7.098,0
+Everyday,Bobby Tarantino II,Logic,4EAV2cKiqKP5UPZmY6dejk,2018-03-09,68,0.667,0.741,0.422,-4.099,0
+Message Man,Blurryface,Twenty One Pilots,4Oyl6oYSNeeZZP0OAxPVaU,2015-05-15,63,0.715,0.838,0.497,-6.077,0
+Polarize,Blurryface,Twenty One Pilots,6GmkJJMe9U1tEcrJ3Hq3A1,2015-05-15,62,0.597,0.666,0.626,-6.365,0
+Who We Are,Smoke + Mirrors (Deluxe),Imagine Dragons,2x2SotEkKozaFh6H1aVnOZ,2015-10-30,55,0.407,0.656,0.39,-7.088,0
+Whatever It Takes,Evolve,Imagine Dragons,6Qn5zhYkTa37e91HC1D7lb,2017-06-23,80,0.672,0.655,0.556,-5.021,0
+Tip Toes,3,half•alive,7HfbeXFwmCWnLpOq6Pa7Dr,2017-04-24,31,0.679,0.801,0.517,-5.598,0
+Addict With A Pen,Twenty One Pilots,Twenty One Pilots,4bk6v5SBxNoVsbOvdOvUAJ,2009-12-29,54,0.553,0.787,0.298,-7.827,0
+Doozy,Doozy,Token,1fGf3e7tP9WN5xUHATagXi,2017-02-14,0,0.714,0.919,0.671,-3.411,0
+10 Feet Down,Perception,NF,68biLwi894rMQPeIiSky2t,2017-10-06,58,0.62,0.835,0.0535,-6.634,0
+Black SpiderMan,Everybody,Logic,7BKUWh5sdtdS17crohRe4L,2017-05-05,55,0.611,0.867,0.336,-5.298,0
+Airplanes,Red Hot R & B,Various Artists,17f8WgDVh2ZIIMLUBCYUFh,2011-01-01,39,0.415,0.876,0.367,-4.319,0
+Coins In A Fountain,Whispers (Deluxe),Passenger,07gVlcsTcC0EIAtW5eoGJi,2014-01-01,0,0.647,0.581,0.502,-9.733,0
+Homicide,Homicide,Logic,0Lw6aQcBFWTQ9m4MSwwwes,2019-05-03,62,0.722,0.764,0.796,-5.656,0
+Midnight,Bobby Tarantino II,Logic,1GtVGc1UYin3zpMUdNSSpM,2018-03-09,57,0.568,0.607,0.269,-7.438,0
+Pray,Pray,Sam Smith,3n3b5WNEohHP7Ou4ndBo6b,2018-03-29,51,0.637,0.448,0.224,-7.968,0
+Time - Edit,Time,NF,68Vm2W4oURsPV3121vUZgB,2019-07-12,56,0.665,0.703,0.257,-3.885,0
+Lie,Perception,NF,07FkzikE6FuHIa8Ma7zJGc,2017-10-06,75,0.513,0.661,0.179,-6.419,0
+happy people,one of those happy people,Wrabel,3n8ErKbrhSoNz62ofPxfhb,2019-09-13,0,0.689,0.652,0.682,-5.681,0
+cold/mess,cold / mess,Prateek Kuhad,2AoWWiMelowkStJoqPMDed,2018-07-13,0,0.509,0.479,0.299,-6.601,0
+Oh Love,In Tokens & Charms,Prateek Kuhad,02sas1xqIwRm7iWSoHDvKe,2015-01-21,43,0.633,0.743,0.548,-8.029,0
+Mann Bharrya,Mann Bharrya - Single,B Praak,5dq3L78FejIKDrQ9tvI4bv,2017-03-16,42,0.543,0.587,0.309,-3.792,0
+Dance Monkey,Dance Monkey,Tones And I,1rgnBhdG2JDFTbYkYRZAku,2019-05-10,62,0.826,0.593,0.541,-6.401,0
+O Que Será de Ti,"MARO, Vol. 1",MARO,6UuQk1XEvvCcVOSvSiRcyk,2018-03-30,2,0.555,0.516,0.382,-12.613,0
